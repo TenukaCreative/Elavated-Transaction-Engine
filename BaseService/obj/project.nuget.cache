@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eEZHhbyw1dY=",
+  "success": true,
+  "projectFilePath": "/Users/tenukaperera/Library/Mobile Documents/com~apple~CloudDocs/CWT/elevated Engine/EngineProject/BaseService/BaseService.csproj",
+  "expectedPackageFiles": [
+    "/Users/tenukaperera/.nuget/packages/microsoft.aspnetcore.openapi/10.0.7/microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "/Users/tenukaperera/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
